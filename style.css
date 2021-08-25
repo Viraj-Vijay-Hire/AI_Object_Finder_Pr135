@@ -1,0 +1,39 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    font-size: 25px;
+    color: purple;
+    padding-bottom: 10px;
+    padding-top: 8px;
+    font-weight: bold;
+    box-shadow: 5px 5px 18px cyan;
+}
+
+#ahh3t
+{
+    font-size: 18px;
+    color: black;
+}
+
+#input1
+{
+    width: 200px;
+    border: gray;
+    border-width: 3px;
+    color: grey;
+    background-color: whitesmoke;
+}
+
+video, canvas
+{
+    margin-top: 230px;
+    border-radius: 20px;
+    border: grey;
+    border-width: 5px;
+}
